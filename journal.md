@@ -59,3 +59,23 @@
      1.   Polish up DotaBot for showcase tomorrow.
      2.   Learn more MongoDB
      3.   Work on the problem statement again for SoS
+
+## Day 4
+
+* ### Project you are working on: 
+     1.   [Dota Discord Bot](https://github.com/Leeoku/DotaBot)
+     2.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+* ### Progress today: 
+     1.   Dota Discord Bot: Fixed bugs on !addhero to make it include exact matches only
+     2.   Presented DotaBot to SoS community
+     3.   Did research on mentor matchmaking
+* ### Challenges you faced: 
+     1.   While getting help to fix an issue with a bug in my code, the person helping        me on Python Discord Help may have been frustrated with me. I understood what       I wanted my code to do, I thought my code did it and my brain couldn't wrap         around what was wrong. He was patient and we went through all the details and       parts of my code breaking it down. I was frustrated I couldn't find it.
+
+          In the end, I solved it. Turns out the computer is only as smart as yourself. I had an incorrect operator which was right in front of me. Maybe it was a reading issue, an understanding of what each word in my code did or my bad habit of being unable to think outside the box/differently.
+
+          What I learned was taking a break and coming back helped. I understand why people like rubber duckies now.
+* ### Tasks for tomorrow
+     1.   Start on the SoS Python Project (recipe app idea)
+     2.   Submit the SoS Mentor Sheet/schedule time with Phil
+     3.   Put final touches on DotaBot Github (super low priority, project is basically done)
