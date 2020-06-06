@@ -79,3 +79,23 @@
      1.   Start on the SoS Python Project (recipe app idea)
      2.   Submit the SoS Mentor Sheet/schedule time with Phil
      3.   Put final touches on DotaBot Github (super low priority, project is basically done)
+
+## Day 5
+
+* ### Project you are working on: 
+     1.   [Dota Discord Bot](https://github.com/Leeoku/DotaBot)
+     2.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+* ### Progress today: 
+     1.   Dota Discord Bot: Add README and closing up project
+     2.   Did research on mentor matchmaking
+* ### Challenges you faced: 
+     After going through research, I found there is no clear way of matchmaking effectively. The compromise of time vs effective matching is the tradeoff. Even Phil spent 3 hours manually searching up and using his best judgement in new groups.
+
+     I think the best way is to effectively highlight some key indicators in terms of skill, general experience and language preference is the best way.
+
+     Also talked to a few mentors. They really like teaching / helping in their free time. This is why I like the software community
+
+* ### Tasks for tomorrow
+     1.   Start on the SoS Python Project (recipe app idea)
+     2.   Connect with Phil hopefully
+     3.   Going to try next.js tomorrow 
