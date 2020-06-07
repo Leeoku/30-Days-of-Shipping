@@ -99,3 +99,16 @@
      1.   Start on the SoS Python Project (recipe app idea)
      2.   Connect with Phil hopefully
      3.   Going to try next.js tomorrow 
+
+## Day 6
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+* ### Progress today: 
+     1.   Got some feedback and reflected on how to write better for SoS
+* ### Challenges you faced: 
+     Mentor liked the info in there but I guess wasn't clear in his instructions. Still the content is good and need to polish things up.
+
+* ### Tasks for tomorrow
+     1.   Review the doc for SoS
+     2.   Going to try next.js tomorrow 
