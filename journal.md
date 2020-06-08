@@ -112,3 +112,16 @@
 * ### Tasks for tomorrow
      1.   Review the doc for SoS
      2.   Going to try next.js tomorrow 
+
+## Day 7
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+* ### Progress today: 
+     1.   Mostly nextjs tutorial
+* ### Challenges you faced: 
+     Sometimes following a tutorial is super hard. Some silly typo, copying and pasting multiple times just to get it to work...
+
+* ### Tasks for tomorrow
+     1.   Review the doc for SoS
+     2.   Going to try next.js tomorrow 
