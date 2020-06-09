@@ -125,3 +125,21 @@
 * ### Tasks for tomorrow
      1.   Review the doc for SoS
      2.   Going to try next.js tomorrow 
+
+## Day 8
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Mostly nextjs tutorial
+     2.   Led Python team meeting for Tyler's idea on StockedUp/Perish, a web app to scan receipts and store their expiry dates
+* ### Challenges you faced: 
+     Kept grinding at NextJS tutorial. Really lost, maybe cause I have a weak React base. Will definitely go back afterwards.
+
+     Also led a meeting and found it hard to get engagement. Maybe I talk a lot or others were too shy. In the end, I did lay decisions, set up a gameplan and got the ball rolling, so that's a plus!
+
+* ### Tasks for tomorrow
+     1.   Review the doc for SoS
+     2.   Try to finish next.js tutorial
+     3.   Start learning Pytessract/OpenCV
