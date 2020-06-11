@@ -143,3 +143,35 @@
      1.   Review the doc for SoS
      2.   Try to finish next.js tutorial
      3.   Start learning Pytessract/OpenCV
+
+## Day 8
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Clarified the design statement for Mentorship SoS
+     2.   Interviewed some mentors and had project feedback
+* ### Challenges you faced: 
+     The SoS Mentorship problem is very complex. It is social logistics plus  management issues. Not really sure what the coded solution would be but did try to condense a lot.
+
+* ### Tasks for tomorrow
+     1.   Review the doc for SoS
+     2.   Start learning Pytessract/OpenCV
+
+## Day 10
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Completed the SoS Revision
+     2.   Discussed the current status/issues with SoS Project Manager Gary
+* ### Challenges you faced: 
+     It's hard to explain things after you worked on something for some time to a new person. I hope I didn't overwhelm Gary.
+
+     Reflected on some mentor advice for the project. I did outline my project plan and they had the same concerns I had. Some solutions were proposed that helped steer the project in the right direction, but others were a personal choice. Will see what group says.
+
+* ### Tasks for tomorrow
+     1.   Try to parse the text for receipts
+     2.   Ask Gary for feedback on SoS Mentorship
