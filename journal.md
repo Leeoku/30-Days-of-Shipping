@@ -175,3 +175,18 @@
 * ### Tasks for tomorrow
      1.   Try to parse the text for receipts
      2.   Ask Gary for feedback on SoS Mentorship
+
+## Day 11
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Problem definition with SoS Mentorship
+     2.   Familiarized with OCR.Space Python Wrapper
+* ### Challenges you faced: 
+     Explaining to mentor Phil our current state of matchmaking was productive. What was difficult is the magnitude of this complex issue. What helped was narrowing it to a specific audience and finding the best way to solve that one problem.
+
+* ### Tasks for tomorrow
+     1.   Try to parse the text for receipts
+     2.   Start on SoS Docs
