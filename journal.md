@@ -190,3 +190,18 @@
 * ### Tasks for tomorrow
      1.   Try to parse the text for receipts
      2.   Start on SoS Docs
+
+## Day 12-13
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Mentor Discussion
+     2.   Initial try at parsing JSON
+* ### Challenges you faced: 
+     I did json parsing before but never as a string. I realized I had to do another function. Also formatting was a waste of time good thing I asked.
+
+* ### Tasks for tomorrow
+     1.   Try to parse the text for receipts
+
