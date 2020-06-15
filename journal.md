@@ -205,3 +205,22 @@
 * ### Tasks for tomorrow
      1.   Try to parse the text for receipts
 
+## Day 14
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Parsed the data on JSON response
+
+* ### Challenges you faced: 
+     I spent a LONG time trying to parse / print the data in the right format. I realized with some asking that formatting doesn't matter, I already have the JSON object. Good thing I asked so I don't waste more time.
+
+     Parsing the data was more challenging than I thought. I got stuck and kept googling around. For some reason, I decided to look at the source of the data, thinking it was weird a JSON object was string. Turns out that was the root cause of the problem and I was able to get it!
+
+     **FELT SO GOOD**
+
+* ### Tasks for tomorrow
+     1.   Try to manipulate the excel/match the data
+     2.   Some mentorship work
+
