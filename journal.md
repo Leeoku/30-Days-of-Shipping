@@ -224,3 +224,20 @@
      1.   Try to manipulate the excel/match the data
      2.   Some mentorship work
 
+## Day 15
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [StockedUp/Pearish](https://github.com/Leeoku/StockedUp)
+* ### Progress today: 
+     1.   Meeting with mentor about project, clarified objectives/path
+     2.   Progress working with pandas to manipulate data
+
+* ### Challenges you faced: 
+     Managing a team is difficult when you're new to coding and not sure what to do also. Everything seems so "as you go" even with a mentor. I'm just going to keep communicating with my mentor and ask as we go. Luckily, he's super flexible.
+
+     I also learned about pandas and manipulating data. I feel so overwhelmed whenever trying a new API. Maybe I'm just frustrated thinking I can just google search and get exactly what I want right away. Going to give myself more time.
+
+* ### Tasks for tomorrow
+     1.   Aim to return the right data from the excel
+     2.   Some mentorship work
