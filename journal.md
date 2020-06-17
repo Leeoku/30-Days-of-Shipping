@@ -241,3 +241,22 @@
 * ### Tasks for tomorrow
      1.   Aim to return the right data from the excel
      2.   Some mentorship work
+
+## Day 16
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [Pearish](https://github.com/Leeoku/pearish)
+* ### Progress today: 
+     1.   Reflection for matchmaking
+     2.   Successfully used pandas to retrieve target data
+
+* ### Challenges you faced: 
+     It's difficult to jump into a brand new API and find exactly what you're looking for. What's interesting is my solution vs the Pull Request reviewed elegant solution. I shouldn't feel bad I didn't get it. But follow the philosophy of making it work , doing it right and improving.
+
+     Always good to see new code methods
+
+* ### Tasks for tomorrow
+     1.   Aim to return the right data from the excel
+     2.   Matchmaking write up
+
