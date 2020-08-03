@@ -1,5 +1,7 @@
 #30 Days of Shipping
 
+I decided midway to continue on twitter, see my posts on @Leeoku
+
 **Start date**: June 1 2020
 
 **End date**: June 30 2020
