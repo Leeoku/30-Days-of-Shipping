@@ -262,3 +262,17 @@ I decided midway to continue on twitter, see my posts on @Leeoku
      1.   Aim to return the right data from the excel
      2.   Matchmaking write up
 
+## Day 17
+
+* ### Project you are working on: 
+     1.   [Summer of Shipping (SoS): Product Engineer for Mentor Matchmaking](https://github.com/phil-ociraptor/sos-landing)
+     2.   [Pearish](https://github.com/Leeoku/pearish)
+* ### Progress today: 
+     1.   Learned Docker
+
+* ### Challenges you faced: 
+     I had difficulties with Windows and Python. Code that worked yesterday didn't work today. I spent so long troubleshooting. Luckily someone reached out and helped walk me through it. Part way through we gave up and just did docker. This is magical and I can see why Docker is so useful to use. Loving it.
+
+* ### Tasks for tomorrow
+     1.   Aim to return the right data from the excel
+     2.   Matchmaking write up
